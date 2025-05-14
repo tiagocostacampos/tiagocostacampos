@@ -35,28 +35,28 @@
     <img alt="[VisualStudio]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"> 
   </a>
   <a href="[Link]">
-    <img alt="[Angular]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png"> 
+    <img alt="[Angular]" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png"> 
   </a>
   <a href="[Link]">
-    <img alt="[HTML5]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"> 
+    <img alt="[HTML5]" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"> 
   </a>
   <a href="[Link]">
-    <img alt="[CSS]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"> 
+    <img alt="[CSS]" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"> 
   </a>
   <a href="[Link]">
-    <img alt="[TS]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"> 
+    <img alt="[TS]" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"> 
   </a>
   <a href="[Link]">
-    <img alt="[JavaScript]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"> 
+    <img alt="[JavaScript]" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"> 
   </a>
   <a href="[Link]">
-    <img alt="[Flutter]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png"> 
+    <img alt="[Flutter]" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png"> 
   </a>
   <a href="[Link]">
-    <img alt="[Git]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"> 
+    <img alt="[Git]" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"> 
   </a>
   <a href="[Link]">
-    <img alt="[GitHub]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"> 
+    <img alt="[GitHub]" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"> 
   </a>
 </div>
 
