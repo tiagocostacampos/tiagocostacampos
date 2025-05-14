@@ -4,9 +4,16 @@
 
 -------------------------------
 
+### Olá pessoal, eu sou Tiago Costa Campos
+
+- Estou aprendendo Front-End com a [DIO](https://www.dio.me/) 
+
+-------------
+
+#### GitHub Stats:
 <div align="center">  
   
-  <img width="49%" height="215px" src="https://github-readme-stats.vercel.app/api?username=tiagocostacampos&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiagocostacampos&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocostacampos&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   
@@ -19,12 +26,14 @@
 <a href="https://www.linkedin.com/in/tiago-campos-6b533a79/" ><img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" height="72" alt="linkedin logo" style="display: inline-block;" /></a>
 <a href="mailto:tiagocostac@gmail.com" ><img src="https://img.icons8.com/?size=100&id=109463&format=png&color=000000" height="72" alt="email logo" style="display: inline-block;" /></a>
 
-
 ------------------
 
 ### Ferramentas que conheço:
 
 <div align="left">
+  <a href="[Link]">
+    <img alt="[VisualStudio]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"> 
+  </a>
   <a href="[Link]">
     <img alt="[Angular]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png"> 
   </a>
@@ -42,6 +51,12 @@
   </a>
   <a href="[Link]">
     <img alt="[Flutter]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png"> 
+  </a>
+  <a href="[Link]">
+    <img alt="[Git]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"> 
+  </a>
+  <a href="[Link]">
+    <img alt="[GitHub]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"> 
   </a>
 </div>
 
