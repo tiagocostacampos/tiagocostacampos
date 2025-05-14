@@ -1,4 +1,32 @@
-## Hi there 👋
+## Olá, Seja bem vindo(a) ao meu perfil! 😉
+
+![Gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+
+-------------------------------
+
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiagocostacampos&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocostacampos&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+</div>
+
+
+
+<p><strong>Entre em contato comigo</strong></p>
+
+<a href="https://www.linkedin.com/in/tiago-campos-6b533a79/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+
+<a href="tiagocostac@gmail.com" ><img src="https://img.icons8.com/?size=100&id=109463&format=png&color=000000" height="32" alt="email logo" style="display: inline-block;" /></a>
+
+
+
+
+
+
+
 
 <!--
 **tiagocostacampos/tiagocostacampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
