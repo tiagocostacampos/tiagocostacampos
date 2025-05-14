@@ -33,16 +33,13 @@
     <img alt="[HTML5]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"> 
   </a>
   <a href="[Link]">
-    <img alt="[CSS]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png
-    "> 
+    <img alt="[CSS]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"> 
   </a>
   <a href="[Link]">
-    <img alt="[TS]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png
-    "> 
+    <img alt="[TS]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"> 
   </a>
   <a href="[Link]">
-    <img alt="[JavaScript]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png
-    "> 
+    <img alt="[JavaScript]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"> 
   </a>
 </div>
 
