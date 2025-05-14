@@ -25,7 +25,7 @@
 
 ### Habilidades:
 
-<div align="center">
+<div align="left">
   <a href="[Link]">
     <img alt="[Angular]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png"> 
   </a>
