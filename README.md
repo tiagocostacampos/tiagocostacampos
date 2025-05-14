@@ -32,7 +32,7 @@
 
 <div align="left">
   <a href="[Link]">
-    <img alt="[VisualStudio]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"> 
+    <img alt="[VisualStudio]" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"> 
   </a>
   <a href="[Link]">
     <img alt="[Angular]" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png"> 
