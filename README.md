@@ -41,6 +41,9 @@
   <a href="[Link]">
     <img alt="[JavaScript]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"> 
   </a>
+  <a href="[Link]">
+    <img alt="[Flutter]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png"> 
+  </a>
 </div>
 
 
