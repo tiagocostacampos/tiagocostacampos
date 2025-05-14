@@ -17,8 +17,7 @@
 
 <p><strong>Entre em contato comigo</strong></p>
 
-<a href="https://www.linkedin.com/in/tiago-campos-6b533a79/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
-
+<a href="https://www.linkedin.com/in/tiago-campos-6b533a79/" ><img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
 <a href="tiagocostac@gmail.com" ><img src="https://img.icons8.com/?size=100&id=109463&format=png&color=000000" height="32" alt="email logo" style="display: inline-block;" /></a>
 
 
