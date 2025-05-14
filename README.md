@@ -13,9 +13,9 @@
   
 </div>
 
+------------------------
 
-
-<p><strong>Entre em contato comigo</strong></p>
+### Entre em contato comigo
 
 <a href="https://www.linkedin.com/in/tiago-campos-6b533a79/" ><img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" height="52" alt="linkedin logo" style="display: inline-block;" /></a>
 <a href="tiagocostac@gmail.com" ><img src="https://img.icons8.com/?size=100&id=109463&format=png&color=000000" height="52" alt="email logo" style="display: inline-block;" /></a>
