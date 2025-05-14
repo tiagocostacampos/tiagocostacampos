@@ -23,9 +23,26 @@
 
 ------------------
 
+### Habilidades:
+
 <div align="center">
   <a href="[Link]">
-    <img alt="[Flutter]" height="60" width="60" src="https://icon-icons.com/pt/icone/arquivo-tipo-flutter/130599"> 
+    <img alt="[Angular]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png"> 
+  </a>
+  <a href="[Link]">
+    <img alt="[HTML5]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"> 
+  </a>
+  <a href="[Link]">
+    <img alt="[CSS]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png
+    "> 
+  </a>
+  <a href="[Link]">
+    <img alt="[TS]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png
+    "> 
+  </a>
+  <a href="[Link]">
+    <img alt="[JavaScript]" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png
+    "> 
   </a>
 </div>
 
